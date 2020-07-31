@@ -70,9 +70,9 @@ To add Target to your app:
    **Swift**
 
    ```swift
-       #import ACPCore
-       #import ACPTarget
-       #import ACPIdentity
+       import ACPCore
+       import ACPTarget
+       import ACPIdentity
    ```
 {% endtab %}
 
